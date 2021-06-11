@@ -1,0 +1,6 @@
+C:\Users\nguyenhung\RiderProjects\Project_Csharp\Lab3_2\bin\Debug\Lab3_2.exe
+C:\Users\nguyenhung\RiderProjects\Project_Csharp\Lab3_2\bin\Debug\Lab3_2.pdb
+C:\Users\nguyenhung\RiderProjects\Project_Csharp\Lab3_2\obj\Debug\Lab3_2.csprojAssemblyReference.cache
+C:\Users\nguyenhung\RiderProjects\Project_Csharp\Lab3_2\obj\Debug\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\nguyenhung\RiderProjects\Project_Csharp\Lab3_2\obj\Debug\Lab3_2.exe
+C:\Users\nguyenhung\RiderProjects\Project_Csharp\Lab3_2\obj\Debug\Lab3_2.pdb
